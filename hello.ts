@@ -63,7 +63,7 @@ const myColoredCar: coloredCar = {
     year: 2021,
     isPetrol: true,
     country: {
-        
+        name:"Italy"
         code:39,
         codeName:"IT"
     },
