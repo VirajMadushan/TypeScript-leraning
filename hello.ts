@@ -33,7 +33,7 @@ interface Car {
 
 
 interface Country{
-    name:string;
+    name?:string;
     code:number;
     codeName:string;
 }
