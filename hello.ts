@@ -65,7 +65,7 @@ const myColoredCar: coloredCar = {
     country: {
         name:"Italy",
         code:39,
-        codeName:"IT"
+        
     },
     color:"RED"
 
